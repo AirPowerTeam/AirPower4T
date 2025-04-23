@@ -13,6 +13,23 @@
   <a href="https://gitee.com/air-power/AirPower4T">Gitee</a> /  <a href="./CHANGELOG.md">CHANGELOG</a> / <a href="./docs/README.md">DOCUMENT</a>
 </p>
 
+# 🔥🔥🔥 温馨提示
+
+**为了更好的解耦设计，我们开发了下面这些项目，欢迎关注：**
+
+- **[AirPower-Transformer](https://github.com/AirPowerTeam/AirPower-Transformer)** 核心的数据转换库
+
+- **[AirPower-Enum](https://github.com/AirPowerTeam/AirPower-Enum)** 核心的枚举封装库
+
+- **[AirPower-i18n](https://github.com/AirPowerTeam/AirPower-i18n)** 核心的国际化封装库
+
+- **[AirPower-Util](https://github.com/AirPowerTeam/AirPower-Util)** 核心的工具封装库
+
+- **[AirPower-Web](https://github.com/AirPowerTeam/AirPower-Web)** **AirPower4T** 的下一个库，做了解耦设计。
+
+> [!NOTE] 温馨提示
+> 本项目进入维护期，不再添加新的功能，欢迎关注上面的一些项目～
+
 ## 0️⃣ 语言 Language
 
 中文(Chinese) | [英文(English)](README_EN.md)
